@@ -1,2 +1,3 @@
 # BIOMEDE_417
-https://hub.gke.mybinder.org/user/mirzakhalili-biomede_417-7x73bw8w/notebooks/ClassNotes.ipynb
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mirzakhalili/BIOMEDE_417/master?filepath=ClassNotes.ipynb)
